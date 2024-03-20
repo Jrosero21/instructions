@@ -9,7 +9,6 @@ Brief description of your project.
   - [Prerequisites]
   - [Installation]
 - [Usage]
-- [Contributing]
 - [License]
 
 ## Introduction
